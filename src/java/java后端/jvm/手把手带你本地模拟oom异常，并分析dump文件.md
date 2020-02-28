@@ -1,4 +1,4 @@
-# java Dump文件分析
+# 本地模拟oom异常，并分析java Dump文件
 
 ### 前言
 

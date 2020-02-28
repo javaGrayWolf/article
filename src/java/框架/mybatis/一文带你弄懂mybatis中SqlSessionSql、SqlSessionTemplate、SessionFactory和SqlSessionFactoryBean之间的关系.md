@@ -1,7 +1,5 @@
 # 一文带你弄懂mybatis中SqlSession、SqlSessionTemplate、SessionFactory和SqlSessionFactoryBean之间的关系
 
-
-
 我潇洒的灰大狼又回来啦。今天送大家的一句话是：
 
 > ***保持耐心，永远年轻，永远热泪盈眶。***
