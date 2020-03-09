@@ -1,8 +1,6 @@
 # 一文带你弄懂mybatis中SqlSession、SqlSessionTemplate、SessionFactory和SqlSessionFactoryBean之间的关系
 
-我潇洒的灰大狼又回来啦。今天送大家的一句话是：
-
-> ***保持耐心，永远年轻，永远热泪盈眶。***
+> 公众号：**灰太狼学爪哇**。（一个java程序员必须关注的公众号）
 
 ### 前言
 
@@ -102,4 +100,7 @@ SqlSessionTemplate是SqlSession的一个具体实现。
 
 爱学习的你们，是不是迫不及待想要一探究竟了，**关注我**，且听我灰大狼下期通过源码的方式给你们一一拆解。
 
-***有帮助？点个赞再走呗~感谢各位老铁的支持~***
+**我是灰太狼，一个95后自我精进的java程序员。个人运营的公众号：灰太狼学爪哇。你想知道的都在这里。（关注免费领取100G各阶段的学习、面试资料）**
+
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmgifa2yhj30b00b0tbf.jpg)
+

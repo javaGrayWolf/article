@@ -1,5 +1,7 @@
 # 本地模拟oom异常，并分析java Dump文件
 
+> *本文已收录至公众号：**灰太狼学爪哇**。（一个java程序员都在关注的公众号）*
+
 ### 前言
 
 dump文件是java虚拟机内存在某一时间点的快照文件，一般是.hprof文件，下面自己模拟一下本地内存溢出，生成dump文件，然后通过mat工具分析的过程。
@@ -98,4 +100,8 @@ Exception in thread "main" java.lang.OutOfMemoryError: GC overhead limit exceede
 
 ### 总结
 
-以上用作笔记，方便下次本人查阅为主。
+以上简单的模拟了一下oom异常发生的场景，在发生了oom异常后怎么生成dump文件，并介绍了怎么通过MAT工具分析dum文件的过程。
+
+**我是灰太狼，一个95后自我精进的java程序员。个人运营的公众号：灰太狼学爪哇。你想知道的都在这里。（关注免费领取100G各阶段的学习、面试资料）**
+
+![](https://tva1.sinaimg.cn/large/00831rSTgy1gcmgifa2yhj30b00b0tbf.jpg)
